@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Call me Ivan</title>
+    <link>https://ivanpan.gitlab.io/</link>
+    <description>Recent content on Call me Ivan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ivanpan.gitlab.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Ivan</title>
+      <link>https://ivanpan.gitlab.io/about/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ivanpan.gitlab.io/about/</guid>
+      <description>Ivan works as a software engineering manager for Next Generation Sequencing platform. On his free time, he reads Sci-Fi novels and binge-watches TV shows. When weather permits, he also hikes around the city or the mountains.</description>
+    </item>
+    
+  </channel>
+</rss>
